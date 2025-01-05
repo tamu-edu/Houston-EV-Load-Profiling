@@ -45,15 +45,15 @@ This repository provides realistic residential electric vehicle (EV) charging lo
 
 
 - **Charging Load Distribution during Peak Hours in Houston, Texas**
-  <img src="https://github.com/user-attachments/assets/f0ff0359-58ef-42f0-ab35-d29df30a20d9" alt="Charging Load Distribution" width="800">
+  <img src="https://github.com/user-attachments/assets/8867a936-4617-47a5-8e54-262899a5c036" alt="Charging Load Distribution" width="800">
 
 
 - **Daily EV charging Load Curve by ZIP Code (Sample)**
-  <img src="https://github.com/user-attachments/assets/b6244a83-8373-485a-b7f5-ab9aa460a27b" alt="Charging Load ZIP Code" width="800">
+  <img src="https://github.com/user-attachments/assets/dd95056e-729d-4bf9-a046-d0c0524bdef6" alt="Charging Load ZIP Code" width="800">
 
 
 - **Daily EV charging Load Curve for Entire Houston**
-  <img src="https://github.com/user-attachments/assets/0dd377d6-353a-4b02-a82f-a4c85aac71b2" alt="Charging Load entire Houston" width="800">
+  <img src="https://github.com/user-attachments/assets/d41233ca-32c4-42aa-b4ed-767ea1eeae04" alt="Charging Load entire Houston" width="800">
 
 ## Support Team
 This project is a collaboration of our group members under the supervision of Prof. Le Xie, Gordon McKay Professor of Electrical Engineering at Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS). The support team keeps processing, correcting and updating the data. The team will also conduct further research analysis and share the latest progress in this repository.
