@@ -41,7 +41,7 @@ This repository provides realistic residential electric vehicle (EV) charging lo
   - Each household is equipped with a Level 2 home charger rated at 7 kW.
 
 - **Representative Charging Patterns for Houston, Texas (Probability)**  
-  <img src="https://github.com/user-attachments/assets/dacce3df-ff15-403b-905d-8bf7dd3c87bf" alt="Representative Charging Patterns" width="800">
+  <img src="https://github.com/user-attachments/assets/bf5a1dea-d82e-4dea-9dda-9df5bc7a735b" alt="Representative Charging Patterns" width="800">
 
 
 - **Charging Load Distribution during Peak Hours in Houston, Texas**
