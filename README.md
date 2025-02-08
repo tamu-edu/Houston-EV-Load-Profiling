@@ -41,24 +41,24 @@ This repository provides realistic residential electric vehicle (EV) charging lo
   - Each household is equipped with a Level 2 home charger rated at 7 kW.
 
 - **Representative Charging Patterns for Houston, Texas (Probability)**  
-  <img src="https://github.com/tamu-edu/Houston-EV-Load-Profiling/blob/ac96db5385599846c339208026417168bd4727c5/Images/Github_1.png" alt="Representative Charging Patterns" width="800">
+  <img src="Images/Github_1.png" alt="Representative Charging Patterns" width="800">
 
 
 - **Charging Load Distribution during Peak Hours in Houston, Texas**
-  <img src="https://github.com/tamu-edu/Houston-EV-Load-Profiling/blob/ac96db5385599846c339208026417168bd4727c5/Images/Github_2.png" alt="Charging Load Distribution" width="800">
+  <img src="Images/Github_2.png" alt="Charging Load Distribution" width="800">
 
 
 - **Daily EV charging Load Curve by ZIP Code (Sample)**
-  <img src="https://github.com/tamu-edu/Houston-EV-Load-Profiling/blob/ac96db5385599846c339208026417168bd4727c5/Images/Github_3.png" alt="Charging Load ZIP Code" width="800">
+  <img src="Images/Github_3.png" alt="Charging Load ZIP Code" width="800">
 
 
 - **Daily EV charging Load Curve for Entire Houston**
-  <img src="https://github.com/tamu-edu/Houston-EV-Load-Profiling/blob/ac96db5385599846c339208026417168bd4727c5/Images/Github_4.png" alt="Charging Load entire Houston" width="800">
+  <img src="Images/Github_4.png" alt="Charging Load entire Houston" width="800">
 
 ## Support Team
 This project is a collaboration of our group members under the supervision of Prof. Le Xie, Gordon McKay Professor of Electrical Engineering at Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS). The support team keeps processing, correcting and updating the data. The team will also conduct further research analysis and share the latest progress in this repository.
 
-<img width="532" alt="image" src="https://github.com/tamu-edu/Houston-EV-Load-Profiling/blob/ac96db5385599846c339208026417168bd4727c5/Images/Github_5.png">
+<img width="532" alt="image" src="Images/Github_5.png">
 
 ## Contact Us
 Please contact us if you need further technical support or search for cooperation. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
